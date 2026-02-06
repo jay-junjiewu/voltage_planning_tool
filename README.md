@@ -102,8 +102,3 @@ The approach is statistical rather than physics-based and does not explicitly mo
 - Improved handling of regime shifts due to rapid PV uptake
 - Integration with portfolio-level optimisation and dashboarding
 
----
-
-## License
-
-Specify license here.
